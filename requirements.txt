@@ -1,6 +1,7 @@
-streamlit
-tensorflow
+tensorflow-cpu
+streamlit==0.65.2
 numpy
+pandas
 PIL
 base64
 googletrans
