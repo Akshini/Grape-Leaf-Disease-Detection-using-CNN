@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+numpy
+PIL
+base64
+googletrans
+streamlit_option_menu
